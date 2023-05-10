@@ -16,7 +16,7 @@ npm install -g random-str-mssgs
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/djquijas/random-str-mssgs)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-mssgs](https://github.com/djquijas/random-str-mssgs)
 
 # License
 
