@@ -1,0 +1,24 @@
+{
+  "name": "random-str-mssgs",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djquijas/random-str-mssgs"
+  },
+  "keywords": [],
+  "author": "Diego Quijas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djquijas/random-str-mssgs/issues"
+  },
+  "homepage": "https://github.com/djquijas/random-str-mssgs#readme",
+  "bin": {
+    "random-str-mssgs": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
